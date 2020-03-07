@@ -61,7 +61,7 @@ cd /tmp
 
 get the software
 ```
-git clone https://github.com/ElGamal/NextionDriverInstaller.git
+git clone https://github.com/bd7idi/NextionDriverInstaller.git
 ```
 
 go !
@@ -84,7 +84,7 @@ cd /tmp
 
 get the software
 ```
-git clone https://github.com/ElGamal/NextionDriverInstaller.git
+git clone https://github.com/bd7idi/NextionDriverInstaller.git
 ```
 >NOTE: if you get an error that the destionation path exists,
 >you already downloaded the software. The just ho to the next step.
