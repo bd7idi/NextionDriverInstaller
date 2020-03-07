@@ -31,7 +31,7 @@ sudo apt-get install libcurl4-openssl-dev
 echo "+ Getting NextionDriver ..."
 cd /tmp
 rm -rf /tmp/NextionDriver
-git clone https://github.com/ea5kl/NextionDriver.git;
+git clone https://github.com/bd7idi/NextionDriver.git;
 cd /tmp/NextionDriver 2>/dev/null
 if [ "$(pwd)" != "/tmp/NextionDriver" ]; then echo "- Getting NextionDriver failed. Cannot continue."; exit; fi
 
